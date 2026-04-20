@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         DGG Kappa.lol Uploader
 // @namespace    Kappa.lol Paste
-// @version      1.1
+// @version      1.0
 // @description  Auto-uploads images pasted into Destiny.gg chat to kappa.lol and inserts the link.
-// @author       PRSEK
+// @author       RadiantSol
 // @match        https://www.destiny.gg/embed/chat*
 // @match        https://www.destiny.gg/bigscreen*
 // @match        https://www.destiny.gg/*
