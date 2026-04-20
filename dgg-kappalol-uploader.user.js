@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         DGG Kappa.lol Uploader
 // @namespace    Kappa.lol Paste
-// @version      1.0
+// @version      1.0.1
 // @description  Auto-uploads images pasted into Destiny.gg chat to kappa.lol and inserts the link.
 // @author       RadiantSol
 // @match        https://www.destiny.gg/embed/chat*
@@ -11,8 +11,8 @@
 // @connect      kappa.lol
 // @run-at       document-end
 // @license      MIT
-// @updateURL    https://update.greasyfork.org/scripts/DGG-Kappalol-Uploader.meta.js
-// @downloadURL  https://update.greasyfork.org/scripts/DGG-Kappalol-Uploader.user.js
+// @updateURL    https://update.greasyfork.org/scripts/574655/DGG%20Kappa.lol%20Uploader.meta.js
+// @downloadURL  https://update.greasyfork.org/scripts/574655/DGG%20Kappa.lol%20Uploader.user.js
 // ==/UserScript==
 
 (function() {
